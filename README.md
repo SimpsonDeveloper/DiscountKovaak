@@ -1,3 +1,3 @@
 # DiscountKovaak
- Unity FPS Trainer
+ Unity FPS Trainer. 
  'M' key is for menu to change sensitivity
